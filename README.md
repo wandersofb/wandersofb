@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Yaspeed
 - 🌱 I’m currently learning みなさんの日本語, CUDF, HIP
-- 👯 I’m looking to collaborate on everything about GPU or 日本語
 - 📫 How to reach me: wandersofb3@gmail.com
 - ⚡ Fun fact: I don’t get why people are so obsessed with Hunter x Hunter and One Piece. Like… are the plots even funny?
-- 🎉 My Top FIVE：AOT, Death Note, Dungeon Meshi, Bakemonogatari, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
+- 🎉 My Top Five：AOT, Death Note, Dungeon Meshi, Bakemonogatari, JoJo no Kimyou na Bouken Part 5: Ougon no Kaze
